@@ -8,4 +8,4 @@ If a Mod is broken with my Method please open an Issue and include all neccesary
 
 ### Please be aware that Modding breaks VRChat TOS and might get you banned. I take no liability for that.
 
-### This Code is Protected from [GNU General Public License v3.0](https://github.com/Gamersven/PleaseReColorMyMenu/blob/master/LICENSE)
+### This Code is Licenced under [GNU General Public License v3.0](https://github.com/Gamersven/PleaseReColorMyMenu/blob/master/LICENSE)
